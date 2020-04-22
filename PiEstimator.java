@@ -32,8 +32,4 @@ public class PiEstimator {
         return ((double)count / darts) * 4.0;
     }
 
-    //
-    // Don't be afraid to put in some private "helper" methods. You don't have to, of
-    // course, but they could be useful and keep your code modular.
-    //
 }
